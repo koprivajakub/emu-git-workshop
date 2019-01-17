@@ -1,6 +1,12 @@
 
 # This time
 1. git basics - what is git and what it is used for
+- git add readme.md
+- git commit
+- git push
+- git commit --amend
+- git commit --fixup=<reference_to_commit_i_am_fixuping>
+
 2. git commit - what is commit, how the commit hash is calculated and how to proper commit your features, fixes, etc...
 
 # Next time
